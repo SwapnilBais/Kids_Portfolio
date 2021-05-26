@@ -264,7 +264,7 @@ p {
 
 /* End Hero Section */
 
-/* Services Section */
+/* Hobbies Section */
 #services .services {
 	flex-direction: column;
 	text-align: center;
@@ -325,7 +325,7 @@ p {
 	color: white;
 	text-align: left;
 }
-/* End Services Section */
+/* End Hobbies Section */
 
 /* Projects section */
 #projects .projects {
